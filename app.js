@@ -2,6 +2,10 @@
 // create by ruicky
 // detail url: https://github.com/ruicky/jd_sign_bot
 
+
+//输入server 的key
+const serverj='SCU136176Te33df4021f24df05e466c163a1a26c5c5fd9d3b1b2bee'
+
 const exec = require('child_process').execSync;
 const fs = require('fs');
 const rp = require('request-promise');
